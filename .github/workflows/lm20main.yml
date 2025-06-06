@@ -1,5 +1,4 @@
 name: LM20
-
 on:
   workflow_dispatch:
   push:
